@@ -71,3 +71,8 @@ Use at your own risk. Always make sure your launchers are closed before running 
 
 ### ⚠️ Дисклеймер
 Используйте на свой страх и риск. Перед запуском пункта `[2]` обязательно закройте все лаунчеры. Серверные лаунчеры (VimeWorld, StreamCraft, HackMine и аналогичные) обновляют Java силами разработчиков самого проекта при запуске лаунчера. Проект не связан с Mojang Studios, Microsoft, Eclipse Adoptium или Azul Systems.
+## 📄 License / Лицензия
+
+This project is licensed under **CC BY-NC-SA 4.0** (Attribution-NonCommercial-ShareAlike 4.0 International) — free for personal use and modification, commercial use is prohibited, and any modified versions must remain open-source under the same license.
+
+Проект распространяется под лицензией **CC BY-NC-SA 4.0** — разрешено бесплатное использование и модификация, коммерческое использование запрещено, а любые изменённые версии должны распространяться с открытым исходным кодом под той же лицензией.
